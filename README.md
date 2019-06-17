@@ -11,15 +11,24 @@ Se apresentar publicado com uma interface gráfica, como a do anders, tem ponto 
 
 ## Requisitos (itens da avaliação)
 Blocos
+
 Transacoes
+
 Hash SHA256
+
 PoW e Nonce- "botão" para mineração
+
 Fee
+
 Troco
 
+
 Possibilidade de alterar as transações e ver as consequências
+
 Pelo menos 5 blocos
+
 Deve ter taxa de minerador
+
 Deve mostrar o que acontece se não for definido para onde vai o troco
 
 
