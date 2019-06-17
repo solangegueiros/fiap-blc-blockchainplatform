@@ -18,6 +18,8 @@ Hash SHA256
 
 PoW e Nonce- "botão" para mineração
 
+Dificuldade da rede 1000 (ou seja, blocos começando com 000)
+
 Fee
 
 Troco
